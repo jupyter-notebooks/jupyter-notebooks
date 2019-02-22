@@ -4,3 +4,6 @@
 [submodule "bwtl-python-tutorials"]
 	path = bwtl-python-tutorials
 	url = ./bwtl-python-tutorials
+[submodule "data-descriptors-and-metaclasses"]
+	path = data-descriptors-and-metaclasses
+	url = ./data-descriptors-and-metaclasses
