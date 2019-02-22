@@ -22,3 +22,6 @@
 [submodule "learning-python-4th-edition"]
 	path = learning-python-4th-edition
 	url = ./learning-python-4th-edition
+[submodule "matplotlib"]
+	path = matplotlib
+	url = ./matplotlib
