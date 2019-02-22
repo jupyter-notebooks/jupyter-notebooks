@@ -1,6 +1,6 @@
-[submodule "algorithms_in_ipython_notebooks"]
-	path = algorithms_in_ipython_notebooks
-	url = ./algorithms_in_ipython_notebooks
+[submodule "algorithms-in-ipython-notebooks"]
+	path = algorithms-in-ipython-notebooks
+	url = ./algorithms-in-ipython-notebooks
 [submodule "bwtl-python-tutorials"]
 	path = bwtl-python-tutorials
 	url = ./bwtl-python-tutorials
@@ -38,5 +38,5 @@
 	path = scientific-python-lectures-master
 	url = ./scientific-python-lectures-master
 [submodule "version_information"]
-	path = version_information
-	url = ./version_information
+	path = version-information
+	url = ./version-information
