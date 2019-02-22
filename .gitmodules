@@ -28,3 +28,6 @@
 [submodule "python-public-data-hacking"]
 	path = python-public-data-hacking
 	url = ./python-public-data-hacking
+[submodule "python-standard-library-by-example"]
+	path = python-standard-library-by-example
+	url = ./python-standard-library-by-example
