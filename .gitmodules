@@ -16,3 +16,6 @@
 [submodule "ipython-static-interactive-widgets"]
 	path = ipython-static-interactive-widgets
 	url = ./ipython-static-interactive-widgets
+[submodule "ipython-xkcd-plots"]
+	path = ipython-xkcd-plots
+	url = ./ipython-xkcd-plots
