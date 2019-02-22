@@ -13,3 +13,6 @@
 [submodule "ipython-in-depth"]
 	path = ipython-in-depth
 	url = ./ipython-in-depth
+[submodule "ipython-static-interactive-widgets"]
+	path = ipython-static-interactive-widgets
+	url = ./ipython-static-interactive-widgets
