@@ -1,0 +1,3 @@
+[submodule "algorithms_in_ipython_notebooks"]
+	path = algorithms_in_ipython_notebooks
+	url = ./algorithms_in_ipython_notebooks
