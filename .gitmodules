@@ -19,3 +19,6 @@
 [submodule "ipython-xkcd-plots"]
 	path = ipython-xkcd-plots
 	url = ./ipython-xkcd-plots
+[submodule "learning-python-4th-edition"]
+	path = learning-python-4th-edition
+	url = ./learning-python-4th-edition
