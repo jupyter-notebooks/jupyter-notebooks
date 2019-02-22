@@ -37,3 +37,6 @@
 [submodule "scientific-python-lectures-master"]
 	path = scientific-python-lectures-master
 	url = ./scientific-python-lectures-master
+[submodule "version_information"]
+	path = version_information
+	url = ./version_information
