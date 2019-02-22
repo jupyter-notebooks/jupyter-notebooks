@@ -10,3 +10,6 @@
 [submodule "ipython-circuitikz"]
 	path = ipython-circuitikz
 	url = ./ipython-circuitikz
+[submodule "ipython-in-depth"]
+	path = ipython-in-depth
+	url = ./ipython-in-depth
