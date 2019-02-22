@@ -34,3 +34,6 @@
 [submodule "python-testing"]
 	path = python-testing
 	url = ./python-testing
+[submodule "scientific-python-lectures-master"]
+	path = scientific-python-lectures-master
+	url = ./scientific-python-lectures-master
