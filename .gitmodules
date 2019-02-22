@@ -1,3 +1,6 @@
 [submodule "algorithms_in_ipython_notebooks"]
 	path = algorithms_in_ipython_notebooks
 	url = ./algorithms_in_ipython_notebooks
+[submodule "bwtl-python-tutorials"]
+	path = bwtl-python-tutorials
+	url = ./bwtl-python-tutorials
