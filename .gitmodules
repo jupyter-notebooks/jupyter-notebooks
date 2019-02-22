@@ -7,3 +7,6 @@
 [submodule "data-descriptors-and-metaclasses"]
 	path = data-descriptors-and-metaclasses
 	url = ./data-descriptors-and-metaclasses
+[submodule "ipython-circuitikz"]
+	path = ipython-circuitikz
+	url = ./ipython-circuitikz
