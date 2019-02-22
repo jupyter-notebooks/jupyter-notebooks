@@ -25,3 +25,6 @@
 [submodule "matplotlib"]
 	path = matplotlib
 	url = ./matplotlib
+[submodule "python-public-data-hacking"]
+	path = python-public-data-hacking
+	url = ./python-public-data-hacking
