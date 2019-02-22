@@ -31,3 +31,6 @@
 [submodule "python-standard-library-by-example"]
 	path = python-standard-library-by-example
 	url = ./python-standard-library-by-example
+[submodule "python-testing"]
+	path = python-testing
+	url = ./python-testing
