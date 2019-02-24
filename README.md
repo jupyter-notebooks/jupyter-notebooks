@@ -6,7 +6,7 @@ Their configuration and usage is documented below.
 
 ## Configuration
 
-This site is where the Docker file and launch was configured.
+This site is where the Docker file and launch scripts were configured.
 
 [jupyter lab docker configuration](https://lean-data-science.com/#/configure-jupyterlab)
 
