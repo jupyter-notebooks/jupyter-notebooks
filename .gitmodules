@@ -40,3 +40,6 @@
 [submodule "version_information"]
 	path = version-information
 	url = ./version-information
+[submodule "python-cookbook-3rd-edition"]
+	path = python-cookbook-3rd-edition
+	url = ./python-cookbook-3rd-edition
