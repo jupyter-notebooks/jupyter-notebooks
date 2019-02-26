@@ -1,45 +1,45 @@
 [submodule "algorithms-in-ipython-notebooks"]
 	path = algorithms-in-ipython-notebooks
-	url = ./algorithms-in-ipython-notebooks
+	url = https://github.com/jupyter-notebooks/algorithms-in-ipython-notebooks.git
 [submodule "bwtl-python-tutorials"]
 	path = bwtl-python-tutorials
-	url = ./bwtl-python-tutorials
+	url = https://github.com/jupyter-notebooks/bwtl-python-tutorials.git
 [submodule "data-descriptors-and-metaclasses"]
 	path = data-descriptors-and-metaclasses
-	url = ./data-descriptors-and-metaclasses
+	url = https://github.com/jupyter-notebooks/data-descriptors-and-metaclasses.git
 [submodule "ipython-circuitikz"]
 	path = ipython-circuitikz
-	url = ./ipython-circuitikz
+	url = https://github.com/jupyter-notebooks/ipython-circuitikz.git
 [submodule "ipython-in-depth"]
 	path = ipython-in-depth
-	url = ./ipython-in-depth
+	url = https://github.com/jupyter-notebooks/ipython-in-depth.git
 [submodule "ipython-static-interactive-widgets"]
 	path = ipython-static-interactive-widgets
-	url = ./ipython-static-interactive-widgets
+	url = https://github.com/jupyter-notebooks/ipython-static-interactive-widgets.git
 [submodule "ipython-xkcd-plots"]
 	path = ipython-xkcd-plots
-	url = ./ipython-xkcd-plots
+	url = https://github.com/jupyter-notebooks/ipython-xkcd-plots.git
 [submodule "learning-python-4th-edition"]
 	path = learning-python-4th-edition
-	url = ./learning-python-4th-edition
+	url = https://github.com/jupyter-notebooks/learning-python-4th-edition.git
 [submodule "matplotlib"]
 	path = matplotlib
-	url = ./matplotlib
+	url = https://github.com/jupyter-notebooks/matplotlib.git
 [submodule "python-public-data-hacking"]
 	path = python-public-data-hacking
-	url = ./python-public-data-hacking
+	url = https://github.com/jupyter-notebooks/python-public-data-hacking.git
 [submodule "python-standard-library-by-example"]
 	path = python-standard-library-by-example
-	url = ./python-standard-library-by-example
+	url = https://github.com/jupyter-notebooks/python-standard-library-by-example.git
 [submodule "python-testing"]
 	path = python-testing
-	url = ./python-testing
+	url = https://github.com/jupyter-notebooks/python-testing
 [submodule "scientific-python-lectures-master"]
 	path = scientific-python-lectures-master
-	url = ./scientific-python-lectures-master
+	url = https://github.com/jupyter-notebooks/scientific-python-lectures-master.git
 [submodule "version_information"]
 	path = version-information
-	url = ./version-information
+	url = https://github.com/jupyter-notebooks/version-information.git
 [submodule "python-cookbook-3rd-edition"]
 	path = python-cookbook-3rd-edition
-	url = ./python-cookbook-3rd-edition
+	url = https://github.com/jupyter-notebooks/python-cookbook-3rd-edition.git
